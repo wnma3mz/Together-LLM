@@ -46,6 +46,7 @@ Build your personal language assistant and co-evolve with others assistants.
 
 - [llama.cpp2python](https://github.com/LostRuins/llamacpp-for-kobold)
 - [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
+- [Gradio](https://gradio.app/)
 
 **Processing**
 
