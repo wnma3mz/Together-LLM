@@ -1,6 +1,6 @@
 [submodule "Deployment/llama"]
 	path = Deployment/llama
-	url = https://github.com/facebookresearch/llama
+	url = https://github.com/wnma3mz/llama
 [submodule "Deployment/llamacpp-for-kobold"]
 	path = Deployment/llamacpp-for-kobold
-	url = https://github.com/LostRuins/llamacpp-for-kobold
+	url = https://github.com/wnma3mz/llamacpp-for-kobold
